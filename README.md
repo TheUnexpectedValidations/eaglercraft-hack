@@ -1,2 +1,3 @@
 # eaglercraft-hack
-cool
+click "hack.html"
+press download
